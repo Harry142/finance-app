@@ -28,8 +28,7 @@ Copy code
 Open your web browser and go to http://localhost:3000 to see the application running.
 
 Dashboard
-![image](https://user-images.githubusercontent.com/83301253/229358191-8cef9c8c-5919-4d60-9f51-3ebaca61cbf7.png)
+![image](https://user-images.githubusercontent.com/83301253/229358598-60795542-e1e3-4b60-9713-6954271bfd9d.png)
 
 Prediction
-![image](https://user-images.githubusercontent.com/83301253/229358280-de3fe5f6-2998-473e-8759-c1992d152491.png)
-
+![image](https://user-images.githubusercontent.com/83301253/229358619-a380766a-dc27-4425-bf67-9c9053ed24af.png)
